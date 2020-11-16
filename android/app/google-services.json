@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892242170748",
+    "firebase_url": "https://eagles-organisator.firebaseio.com",
+    "project_id": "eagles-organisator",
+    "storage_bucket": "eagles-organisator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892242170748:android:c053b3e1caf74002684af9",
+        "android_client_info": {
+          "package_name": "com.thiloziel.eagles_training_organisator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892242170748-6m47jk1osi10m14qhm4vf7pttcqt8539.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thiloziel.eagles_training_organisator",
+            "certificate_hash": "7eee399e030b9762fa65ee8b79a66b7c54d3acec"
+          }
+        },
+        {
+          "client_id": "892242170748-lidll69eiglcknq6k99gcb4l18s78tip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJluaK6VQhccqtEPCmJq3ARMC-BsOIFCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892242170748-lidll69eiglcknq6k99gcb4l18s78tip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
